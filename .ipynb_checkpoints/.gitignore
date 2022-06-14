@@ -1,0 +1,2 @@
+# ignore all folder ending with checkpoints
+*checkpoints/ 
